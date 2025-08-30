@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+requests
+beautifulsoup4
+ # optional, only if you want automatic textual summaries (set OPENAI_API_KEY env)
